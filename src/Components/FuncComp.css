@@ -1,0 +1,40 @@
+/* .App1{
+    align-items: center;
+  } */
+  .btn1{
+    width:30%;
+    border-radius: 2vw;
+    height:10vh;
+    background-color:brown;
+    color:white;
+    font-size: 1.5vw;
+    top:11vw;
+    left: 13vw;
+    position: absolute;
+  }
+  .cont1{
+    width:35%;
+    height:45vh;
+    background-color: coral;
+    border-radius:2vw;
+    position: absolute;
+    left:10.5vw;
+    top:40vh;
+    border:2px solid black;
+  }
+  .cont2{
+    width:35%;
+    height:45vh;
+    background-color: coral;
+    border-radius:2vw;
+    position: absolute;
+    left:54.5vw;
+    top:40vh;
+    border:2px solid black;
+  }
+  h2{
+      font-size: 2vw;
+  }
+  p{
+    font-size:1.5vw;
+  }
